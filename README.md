@@ -1,7 +1,7 @@
 
 ## 企业网站综合布局 - 仿imooc网站
 
-> 仿imooc网站 [源码](https://github.com/researchlab/febp/tree/master/css-practice/examples/imooc)
+> 仿imooc网站 [源码](https://github.com/researchlab/febp/tree/master/css-practice/examples/imooc) [预览](https://proj-previews.github.io/imooc/)
 
 ## 功能简述
 
